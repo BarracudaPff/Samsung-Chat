@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "458676008534",
+    "firebase_url": "https://chat-eda6a.firebaseio.com",
+    "project_id": "chat-eda6a",
+    "storage_bucket": "chat-eda6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458676008534:android:2bc258334d9278e6",
+        "android_client_info": {
+          "package_name": "com.samsung.barracudapff.samsung_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458676008534-7dolj11004tt04fbt740e4pad2v952ad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnZfVkJ_GNKZL6FEt2NFGo2AksaQsHYQ8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
